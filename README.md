@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ashutosh9470/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2465-shifting-letters-ii](https://github.com/Ashutosh9470/LeetCode/tree/master/2465-shifting-letters-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -18,11 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ashutosh9470/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2465-shifting-letters-ii](https://github.com/Ashutosh9470/LeetCode/tree/master/2465-shifting-letters-ii) |
 ## Array
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Ashutosh9470/LeetCode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Ashutosh9470/LeetCode/tree/master/0228-summary-ranges) |
+| [2465-shifting-letters-ii](https://github.com/Ashutosh9470/LeetCode/tree/master/2465-shifting-letters-ii) |
 ## Sorting
 |  |
 | ------- |
