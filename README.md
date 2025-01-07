@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Ashutosh9470/LeetCode/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Ashutosh9470/LeetCode/tree/master/0049-group-anagrams) |
 | [0500-keyboard-row](https://github.com/Ashutosh9470/LeetCode/tree/master/0500-keyboard-row) |
+| [1524-string-matching-in-an-array](https://github.com/Ashutosh9470/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ashutosh9470/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ashutosh9470/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/Ashutosh9470/LeetCode/tree/master/2465-shifting-letters-ii) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Ashutosh9470/LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Ashutosh9470/LeetCode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Ashutosh9470/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [1524-string-matching-in-an-array](https://github.com/Ashutosh9470/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ashutosh9470/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2465-shifting-letters-ii](https://github.com/Ashutosh9470/LeetCode/tree/master/2465-shifting-letters-ii) |
 ## Sorting
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Ashutosh9470/LeetCode/tree/master/0012-integer-to-roman) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/Ashutosh9470/LeetCode/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
