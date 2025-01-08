@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Ashutosh9470/LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Ashutosh9470/LeetCode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Ashutosh9470/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0682-baseball-game](https://github.com/Ashutosh9470/LeetCode/tree/master/0682-baseball-game) |
 | [1524-string-matching-in-an-array](https://github.com/Ashutosh9470/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ashutosh9470/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2465-shifting-letters-ii](https://github.com/Ashutosh9470/LeetCode/tree/master/2465-shifting-letters-ii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/Ashutosh9470/LeetCode/tree/master/0143-reorder-list) |
 | [0496-next-greater-element-i](https://github.com/Ashutosh9470/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Ashutosh9470/LeetCode/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Ashutosh9470/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0682-baseball-game](https://github.com/Ashutosh9470/LeetCode/tree/master/0682-baseball-game) |
 ## Math
 |  |
 | ------- |
