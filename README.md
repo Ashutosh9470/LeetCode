@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ashutosh9470/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0047-permutations-ii](https://github.com/Ashutosh9470/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Ashutosh9470/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Ashutosh9470/LeetCode/tree/master/0051-n-queens) |
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ashutosh9470/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ashutosh9470/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
