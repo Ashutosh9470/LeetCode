@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Ashutosh9470/LeetCode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ashutosh9470/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ashutosh9470/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Ashutosh9470/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/Ashutosh9470/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/Ashutosh9470/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ashutosh9470/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Ashutosh9470/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/Ashutosh9470/LeetCode/tree/master/0561-array-partition) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ashutosh9470/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Ashutosh9470/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Matrix
 |  |
 | ------- |
