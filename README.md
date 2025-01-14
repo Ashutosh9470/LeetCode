@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ashutosh9470/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Ashutosh9470/LeetCode/tree/master/0143-reorder-list) |
+| [0225-implement-stack-using-queues](https://github.com/Ashutosh9470/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/Ashutosh9470/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Ashutosh9470/LeetCode/tree/master/0682-baseball-game) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Ashutosh9470/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -172,4 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ashutosh9470/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Ashutosh9470/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Ashutosh9470/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
