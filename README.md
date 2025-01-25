@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/Ashutosh9470/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ashutosh9470/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Ashutosh9470/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ashutosh9470/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ashutosh9470/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Sorting
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Ashutosh9470/LeetCode/tree/master/0217-contains-duplicate) |
 | [0506-relative-ranks](https://github.com/Ashutosh9470/LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Ashutosh9470/LeetCode/tree/master/0561-array-partition) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ashutosh9470/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/Ashutosh9470/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ashutosh9470/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
 |  |
 | ------- |
