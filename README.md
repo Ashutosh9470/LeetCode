@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/Ashutosh9470/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ashutosh9470/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Ashutosh9470/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2551-apply-operations-to-an-array](https://github.com/Ashutosh9470/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Ashutosh9470/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Ashutosh9470/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ashutosh9470/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Ashutosh9470/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/Ashutosh9470/LeetCode/tree/master/0682-baseball-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ashutosh9470/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2551-apply-operations-to-an-array](https://github.com/Ashutosh9470/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ashutosh9470/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Ashutosh9470/LeetCode/tree/master/3447-clear-digits) |
 ## Math
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ashutosh9470/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Ashutosh9470/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Ashutosh9470/LeetCode/tree/master/0143-reorder-list) |
+| [2551-apply-operations-to-an-array](https://github.com/Ashutosh9470/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Trie
 |  |
 | ------- |
