@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ashutosh9470/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/Ashutosh9470/LeetCode/tree/master/2145-grid-game) |
 | [2465-shifting-letters-ii](https://github.com/Ashutosh9470/LeetCode/tree/master/2465-shifting-letters-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/Ashutosh9470/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Array
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/Ashutosh9470/LeetCode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ashutosh9470/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/Ashutosh9470/LeetCode/tree/master/3483-alternating-groups-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/Ashutosh9470/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ashutosh9470/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [3643-zero-array-transformation-ii](https://github.com/Ashutosh9470/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Tree
 |  |
 | ------- |
