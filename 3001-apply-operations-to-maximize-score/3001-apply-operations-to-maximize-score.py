@@ -66,5 +66,3 @@ class Solution:
             k -= use
 
         return result
-
-# \U0001f680\U0001f525 Keep coding and stay awesome!
