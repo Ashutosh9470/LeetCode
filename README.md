@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Ashutosh9470/LeetCode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Ashutosh9470/LeetCode/tree/master/0228-summary-ranges) |
 | [0407-trapping-rain-water-ii](https://github.com/Ashutosh9470/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Ashutosh9470/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/Ashutosh9470/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Ashutosh9470/LeetCode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Ashutosh9470/LeetCode/tree/master/0506-relative-ranks) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/Ashutosh9470/LeetCode/tree/master/0044-wildcard-matching) |
 | [0119-pascals-triangle-ii](https://github.com/Ashutosh9470/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Ashutosh9470/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Ashutosh9470/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Ashutosh9470/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Ashutosh9470/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
