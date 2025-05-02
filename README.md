@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Ashutosh9470/LeetCode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Ashutosh9470/LeetCode/tree/master/0049-group-anagrams) |
 | [0500-keyboard-row](https://github.com/Ashutosh9470/LeetCode/tree/master/0500-keyboard-row) |
+| [0868-push-dominoes](https://github.com/Ashutosh9470/LeetCode/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/Ashutosh9470/LeetCode/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ashutosh9470/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Ashutosh9470/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Ashutosh9470/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Ashutosh9470/LeetCode/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/Ashutosh9470/LeetCode/tree/master/0202-happy-number) |
+| [0868-push-dominoes](https://github.com/Ashutosh9470/LeetCode/tree/master/0868-push-dominoes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ashutosh9470/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Ashutosh9470/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ashutosh9470/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Ashutosh9470/LeetCode/tree/master/0044-wildcard-matching) |
 | [0119-pascals-triangle-ii](https://github.com/Ashutosh9470/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Ashutosh9470/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0868-push-dominoes](https://github.com/Ashutosh9470/LeetCode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Ashutosh9470/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Ashutosh9470/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Ashutosh9470/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
