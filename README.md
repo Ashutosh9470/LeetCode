@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Ashutosh9470/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ashutosh9470/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Ashutosh9470/LeetCode/tree/master/0952-word-subsets) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Ashutosh9470/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1364-tuple-with-same-product](https://github.com/Ashutosh9470/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Ashutosh9470/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Ashutosh9470/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/Ashutosh9470/LeetCode/tree/master/0044-wildcard-matching) |
 | [0561-array-partition](https://github.com/Ashutosh9470/LeetCode/tree/master/0561-array-partition) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Ashutosh9470/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ashutosh9470/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Ashutosh9470/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Ashutosh9470/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
