@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Ashutosh9470/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Ashutosh9470/LeetCode/tree/master/0075-sort-colors) |
 | [0119-pascals-triangle-ii](https://github.com/Ashutosh9470/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0135-candy](https://github.com/Ashutosh9470/LeetCode/tree/master/0135-candy) |
 | [0217-contains-duplicate](https://github.com/Ashutosh9470/LeetCode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Ashutosh9470/LeetCode/tree/master/0228-summary-ranges) |
 | [0407-trapping-rain-water-ii](https://github.com/Ashutosh9470/LeetCode/tree/master/0407-trapping-rain-water-ii) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Ashutosh9470/LeetCode/tree/master/0044-wildcard-matching) |
+| [0135-candy](https://github.com/Ashutosh9470/LeetCode/tree/master/0135-candy) |
 | [0561-array-partition](https://github.com/Ashutosh9470/LeetCode/tree/master/0561-array-partition) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Ashutosh9470/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ashutosh9470/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
