@@ -426,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Ashutosh9470/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Ashutosh9470/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Ashutosh9470/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3830-find-closest-person](https://github.com/Ashutosh9470/LeetCode/tree/master/3830-find-closest-person) |
 ## String Matching
 |  |
 | ------- |
