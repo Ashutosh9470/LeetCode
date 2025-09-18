@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Ashutosh9470/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Ashutosh9470/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Ashutosh9470/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3678-design-task-manager](https://github.com/Ashutosh9470/LeetCode/tree/master/3678-design-task-manager) |
 ## String
 |  |
 | ------- |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ashutosh9470/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Ashutosh9470/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Ashutosh9470/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3678-design-task-manager](https://github.com/Ashutosh9470/LeetCode/tree/master/3678-design-task-manager) |
 ## Greedy
 |  |
 | ------- |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/Ashutosh9470/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2429-design-a-food-rating-system](https://github.com/Ashutosh9470/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Ashutosh9470/LeetCode/tree/master/2434-design-a-number-container-system) |
+| [3678-design-task-manager](https://github.com/Ashutosh9470/LeetCode/tree/master/3678-design-task-manager) |
 ## Queue
 |  |
 | ------- |
@@ -620,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/Ashutosh9470/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/Ashutosh9470/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Ashutosh9470/LeetCode/tree/master/2434-design-a-number-container-system) |
+| [3678-design-task-manager](https://github.com/Ashutosh9470/LeetCode/tree/master/3678-design-task-manager) |
 ## Data Stream
 |  |
 | ------- |
