@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ashutosh9470/LeetCode/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ashutosh9470/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Ashutosh9470/LeetCode/tree/master/0036-valid-sudoku) |
 | [0047-permutations-ii](https://github.com/Ashutosh9470/LeetCode/tree/master/0047-permutations-ii) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ashutosh9470/LeetCode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Ashutosh9470/LeetCode/tree/master/0044-wildcard-matching) |
 | [0135-candy](https://github.com/Ashutosh9470/LeetCode/tree/master/0135-candy) |
 | [0561-array-partition](https://github.com/Ashutosh9470/LeetCode/tree/master/0561-array-partition) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ashutosh9470/LeetCode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ashutosh9470/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Ashutosh9470/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Ashutosh9470/LeetCode/tree/master/0141-linked-list-cycle) |
