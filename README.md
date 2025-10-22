@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Ashutosh9470/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ashutosh9470/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Ashutosh9470/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Ashutosh9470/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Ashutosh9470/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Ashutosh9470/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Array
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/Ashutosh9470/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Ashutosh9470/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Ashutosh9470/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Ashutosh9470/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Ashutosh9470/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Ashutosh9470/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Ashutosh9470/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/Ashutosh9470/LeetCode/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Ashutosh9470/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/Ashutosh9470/LeetCode/tree/master/3430-count-days-without-meetings) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Ashutosh9470/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Ashutosh9470/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Linked List
 |  |
@@ -490,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2690-house-robber-iv](https://github.com/Ashutosh9470/LeetCode/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Ashutosh9470/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ashutosh9470/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Ashutosh9470/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Ashutosh9470/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Tree
 |  |
@@ -657,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ashutosh9470/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Ashutosh9470/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Ashutosh9470/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Ashutosh9470/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Ashutosh9470/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Number Theory
 |  |
