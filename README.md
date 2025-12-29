@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Ashutosh9470/LeetCode/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Ashutosh9470/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Ashutosh9470/LeetCode/tree/master/0500-keyboard-row) |
+| [0756-pyramid-transition-matrix](https://github.com/Ashutosh9470/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Ashutosh9470/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ashutosh9470/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Ashutosh9470/LeetCode/tree/master/0952-word-subsets) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Ashutosh9470/LeetCode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Ashutosh9470/LeetCode/tree/master/0049-group-anagrams) |
 | [0500-keyboard-row](https://github.com/Ashutosh9470/LeetCode/tree/master/0500-keyboard-row) |
+| [0756-pyramid-transition-matrix](https://github.com/Ashutosh9470/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0868-push-dominoes](https://github.com/Ashutosh9470/LeetCode/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/Ashutosh9470/LeetCode/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ashutosh9470/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Ashutosh9470/LeetCode/tree/master/0029-divide-two-integers) |
+| [0756-pyramid-transition-matrix](https://github.com/Ashutosh9470/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ashutosh9470/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ashutosh9470/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Ashutosh9470/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ashutosh9470/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0047-permutations-ii](https://github.com/Ashutosh9470/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Ashutosh9470/LeetCode/tree/master/0051-n-queens) |
+| [0756-pyramid-transition-matrix](https://github.com/Ashutosh9470/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [1160-letter-tile-possibilities](https://github.com/Ashutosh9470/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Ashutosh9470/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Ashutosh9470/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
