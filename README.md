@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ashutosh9470/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ashutosh9470/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/Ashutosh9470/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Ashutosh9470/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ashutosh9470/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Ashutosh9470/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/Ashutosh9470/LeetCode/tree/master/2145-grid-game) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Ashutosh9470/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ashutosh9470/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Ashutosh9470/LeetCode/tree/master/1876-map-of-highest-peak) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Ashutosh9470/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2145-grid-game](https://github.com/Ashutosh9470/LeetCode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ashutosh9470/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ashutosh9470/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ashutosh9470/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ashutosh9470/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Ashutosh9470/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Ashutosh9470/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Ashutosh9470/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Ashutosh9470/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -544,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ashutosh9470/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Ashutosh9470/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Ashutosh9470/LeetCode/tree/master/1558-course-schedule-iv) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Ashutosh9470/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Ashutosh9470/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Ashutosh9470/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Ashutosh9470/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -590,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ashutosh9470/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Ashutosh9470/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/Ashutosh9470/LeetCode/tree/master/1876-map-of-highest-peak) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Ashutosh9470/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Ashutosh9470/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Ashutosh9470/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ashutosh9470/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -621,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Ashutosh9470/LeetCode/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/Ashutosh9470/LeetCode/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Ashutosh9470/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Ashutosh9470/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Ashutosh9470/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ashutosh9470/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/Ashutosh9470/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
