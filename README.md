@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ashutosh9470/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Ashutosh9470/LeetCode/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Ashutosh9470/LeetCode/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/Ashutosh9470/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Ashutosh9470/LeetCode/tree/master/0075-sort-colors) |
 | [0119-pascals-triangle-ii](https://github.com/Ashutosh9470/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/Ashutosh9470/LeetCode/tree/master/0135-candy) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Ashutosh9470/LeetCode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Ashutosh9470/LeetCode/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/Ashutosh9470/LeetCode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Ashutosh9470/LeetCode/tree/master/0202-happy-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Ashutosh9470/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ashutosh9470/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
