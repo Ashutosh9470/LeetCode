@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/Ashutosh9470/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ashutosh9470/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1364-tuple-with-same-product](https://github.com/Ashutosh9470/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [1390-four-divisors](https://github.com/Ashutosh9470/LeetCode/tree/master/1390-four-divisors) |
 | [1396-count-servers-that-communicate](https://github.com/Ashutosh9470/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Ashutosh9470/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ashutosh9470/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Ashutosh9470/LeetCode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Ashutosh9470/LeetCode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Ashutosh9470/LeetCode/tree/master/0202-happy-number) |
+| [1390-four-divisors](https://github.com/Ashutosh9470/LeetCode/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Ashutosh9470/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ashutosh9470/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/Ashutosh9470/LeetCode/tree/master/1500-count-largest-group) |
