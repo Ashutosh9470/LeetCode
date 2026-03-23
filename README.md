@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/Ashutosh9470/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ashutosh9470/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Ashutosh9470/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ashutosh9470/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Ashutosh9470/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/Ashutosh9470/LeetCode/tree/master/1656-count-good-triplets) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Ashutosh9470/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ashutosh9470/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/Ashutosh9470/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ashutosh9470/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ashutosh9470/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1876-map-of-highest-peak](https://github.com/Ashutosh9470/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Ashutosh9470/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Ashutosh9470/LeetCode/tree/master/1975-maximum-matrix-sum) |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/Ashutosh9470/LeetCode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Ashutosh9470/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Ashutosh9470/LeetCode/tree/master/1170-shortest-common-supersequence) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ashutosh9470/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Ashutosh9470/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Ashutosh9470/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Ashutosh9470/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
